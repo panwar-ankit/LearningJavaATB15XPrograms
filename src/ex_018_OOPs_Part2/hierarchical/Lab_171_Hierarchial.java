@@ -1,4 +1,4 @@
-package hierarchical;
+package ex_018_OOPs_Part2.hierarchical;
 
 public class Lab_171_Hierarchial {
     static void main(String[] args) {

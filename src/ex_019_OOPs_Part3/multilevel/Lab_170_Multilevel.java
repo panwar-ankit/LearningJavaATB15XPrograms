@@ -1,4 +1,4 @@
-package multilevel;
+package ex_019_OOPs_Part3.multilevel;
 
 public class Lab_170_Multilevel {
     static void main(String[] args) {
@@ -22,7 +22,7 @@ public class Lab_170_Multilevel {
         // Dynamic Dispatch
         Grandfather g1 = new Son();
         Father f1 = new Son();
-        System.out.println(f1.);
+       // System.out.println(f1.);
         //Son s1 = new Grandfather();
 
 

@@ -1,4 +1,4 @@
-package Multipleheritance;
+package ex_019_OOPs_Part3.multilevel.Multipleheritance;
 
 public class Father2 {
     void money(){
